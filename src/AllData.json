@@ -1,0 +1,191 @@
+[
+  {
+    "category": "Men",
+    "subcategories": [
+      {
+        "name": "T-shirts",
+        "products": [
+          {
+            "name": "Casual Tee",
+            "size": {"s": true, "m": true, "l": true, "xl": true, "xxl": true},
+            "color": {"black": true, "white": true, "orange": true},
+            "price": 19.99,
+            "id": "M001",
+            "description": "Comfortable casual t-shirt",
+            "new": false
+          },
+          {
+            "name": "Striped Polo",
+            "size": {"s": true, "m": true, "l": true, "xl": true, "xxl": false},
+            "color": {"black": false, "white": true, "orange": false},
+            "price": 24.99,
+            "id": "M002",
+            "description": "Classic striped polo shirt",
+            "new": true
+          },
+          {
+            "name": "Graphic Print Tee",
+            "size": {
+              "s": true,
+              "m": true,
+              "l": true,
+              "xl": false,
+              "xxl": false
+            },
+            "color": {"black": true, "white": false, "orange": true},
+            "price": 29.99,
+            "id": "M003",
+            "description": "Trendy graphic print t-shirt",
+            "new": true
+          },
+          {
+            "name": "Striped Polo",
+            "size": {"s": true, "m": true, "l": true, "xl": true, "xxl": false},
+            "color": {"black": false, "white": true, "orange": false},
+            "price": 24.99,
+            "id": "M002",
+            "description": "Classic striped polo shirt",
+            "new": true
+          }
+        ]
+      },
+      {
+        "name": "Sports",
+        "products": [
+          {
+            "name": "Running Shoes",
+            "size": {
+              "s": true,
+              "m": true,
+              "l": false,
+              "xl": false,
+              "xxl": false
+            },
+            "color": {"black": true, "white": false, "orange": true},
+            "price": 49.99,
+            "id": "M003",
+            "description": "High-performance running shoes",
+            "new": true
+          },
+          {
+            "name": "Sports Jacket",
+            "size": {
+              "s": false,
+              "m": true,
+              "l": true,
+              "xl": true,
+              "xxl": false
+            },
+            "color": {"black": true, "gray": false, "red": true},
+            "price": 79.99,
+            "id": "S005",
+            "description": "Breathable and lightweight sports jacket",
+            "new": true
+          },
+          {
+            "name": "Hiking Boots",
+            "size": {
+              "s": false,
+              "m": true,
+              "l": true,
+              "xl": false,
+              "xxl": false
+            },
+            "color": {"brown": true, "green": false, "gray": true},
+            "price": 89.99,
+            "id": "H001",
+            "description": "Durable hiking boots for outdoor adventures",
+            "new": true
+          },
+          {
+            "name": "Athletic Shorts",
+            "size": {
+              "s": true,
+              "m": true,
+              "l": true,
+              "xl": false,
+              "xxl": false
+            },
+            "color": {"black": true, "white": true, "orange": false},
+            "price": 29.99,
+            "id": "M004",
+            "description": "Comfortable athletic shorts",
+            "new": false
+          },
+          {
+            "name": "Cycling Helmet",
+            "size": {
+              "s": false,
+              "m": true,
+              "l": true,
+              "xl": false,
+              "xxl": false
+            },
+            "color": {"black": true, "yellow": false, "white": true},
+            "price": 49.99,
+            "id": "C007",
+            "description": "Safety-focused cycling helmet with adjustable straps",
+            "new": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Women",
+    "subcategories": [
+      {
+        "name": "Dresses",
+        "products": [
+          {
+            "name": "Floral Maxi Dress",
+            "size": {
+              "s": true,
+              "m": true,
+              "l": true,
+              "xl": false,
+              "xxl": false
+            },
+            "color": {"black": false, "white": true, "orange": false},
+            "price": 39.99,
+            "id": "W001",
+            "description": "Elegant floral maxi dress",
+            "new": false
+          },
+          {
+            "name": "Cocktail Dress",
+            "size": {
+              "s": true,
+              "m": false,
+              "l": true,
+              "xl": true,
+              "xxl": false
+            },
+            "color": {"black": true, "white": false, "orange": false},
+            "price": 49.99,
+            "id": "W002",
+            "description": "Chic cocktail dress",
+            "new": true
+          }
+        ]
+      },
+      {
+        "name": "Shoes",
+        "products": []
+      }
+    ]
+  },
+  {
+    "category": "Kids",
+    "subcategories": [
+      {
+        "name": "T-shirts",
+        "products": []
+      },
+      {
+        "name": "Jeans",
+        "products": []
+      }
+    ]
+  }
+]
